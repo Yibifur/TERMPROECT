@@ -84,6 +84,7 @@ public class Students {
 		}
 		else {
 			System.out.println(getId()+" numaralı"+getName()+ " "+getSurName()+" adlı  öğrenciye "+underGraduateCourseCount+" tane dersin ataması yapılmıştır.");
+			
 		}
 		
 		
